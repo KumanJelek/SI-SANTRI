@@ -1,0 +1,8 @@
+{
+  "name": "SI-SANTRI",
+  "description": "Sistem Informasi Santri - Portal Layanan Santri \u0026 Pengurus Pesantren",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
